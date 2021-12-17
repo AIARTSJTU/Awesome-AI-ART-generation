@@ -21,7 +21,7 @@ Papers | Conference | Year | Code | Speaker |Slides
 [GAN-Supervised Dense Visual Alignment](https://arxiv.org/abs/2112.05143)   |   arXiv   |     2021      |   [here](https://github.com/wpeebles/gangealing)  |   Yuhan Li  | x 
 
 
-## DDPM related models
+## Diffusion based models
 
 Papers | Conference | Year | Code | Speaker |Slides
 :-------------------------------------------------------:|:------:|:----:|:----:|:------------------:|:----:|
