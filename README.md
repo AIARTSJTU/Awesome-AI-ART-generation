@@ -1,5 +1,5 @@
-# Awesome-AI-ART-generation
-This is a  collection of resources on AI-AR-ART generation with slides!
+# Awesome Neural Rendering
+This is a collection of resources on AI-AR-ART generation with slides!
 
 We are AI300 lab in ECE of Shanghai Jiao Tong University, and this is the sharing papers of research meeting and group discussion, including slides maded by ourselves.
 
