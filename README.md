@@ -22,6 +22,13 @@ Papers | Conference | Year | Code | Speaker |Slides
 [Correction Filter for Single Image Super-Resolution: Robustifying Off-the-Shelf Deep Super-Resolvers](https://arxiv.org/abs/1912.00157)   |   CVPR   |     2020      |   [here](https://www.catalyzex.com/redirect?url=https://github.com/shadyabh/Correction-Filter)  |   Xiaohang Wang  | [here](https://1drv.ms/p/s!AlS0P3vuVTvigzkllK_O_bL-4ZOI?e=co6IXH) 
 
 
+## GAN Edit Method
+Papers | Conference | Year | Code | Speaker |Slides
+:-------------------------------------------------------:|:------:|:----:|:----:|:------------------:|:----:|
+How to Edit on Latent Space of GAN   |  x  |       x    |   x |  Yuhan Li   | [here](https://1drv.ms/p/s!AlS0P3vuVTvig0FhBGvLIiFInZb6?e=9h6pAj) 
+
+
+
 ## DDPM related models
 
 Papers | Conference | Year | Code | Speaker |Slides
