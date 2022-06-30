@@ -48,6 +48,13 @@ Papers | Conference | Year | Code | Speaker |Slides
 A survey about Deep Compression   |  x  |       x    |   x |  Yutian Liu   | [here](https://1drv.ms/b/s!AlS0P3vuVTvigzyrarUJtYsLko1l?e=CP2KL2) 
 
 
+## Nerf Related
+Papers | Conference | Year | Code | Speaker |Slides
+:-------------------------------------------------------:|:------:|:----:|:----:|:------------------:|:----:|
+[Plenoxels: Radiance Fields without Neural Networks](https://arxiv.org/abs/2112.05131)   | CVPR   |     2022      |   [here](https://alexyu.net/plenoxels/) |  Xiaohang Wang   | [here](https://1drv.ms/p/s!AlS0P3vuVTvig0Iu6HEwII8Xt8sE?e=E4wcLV)  
+[Point-NeRF: Point-based Neural Radiance Fields](https://arxiv.org/abs/2201.08845)   | CVPR   |     2022      |   [here](https://xharlie.github.io/projects/project_sites/pointnerf/) |  Xiaohang Wang   | [here](https://1drv.ms/p/s!AlS0P3vuVTvig0Iu6HEwII8Xt8sE?e=E4wcLV)  
+
+
 ## Implicit Representations
 Papers | Conference | Year | Code | Speaker |Slides
 :-------------------------------------------------------:|:------:|:----:|:----:|:------------------:|:----:|
