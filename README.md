@@ -47,6 +47,13 @@ Papers | Conference | Year | Code | Speaker |Slides
 :-------------------------------------------------------:|:------:|:----:|:----:|:------------------:|:----:|
 A survey about Deep Compression   |  x  |       x    |   x |  Yutian Liu   | [here](https://1drv.ms/b/s!AlS0P3vuVTvigzyrarUJtYsLko1l?e=CP2KL2) 
 
+## Loss Landscape
+Papers | Conference | Year | Code | Speaker |Slides
+:-------------------------------------------------------:|:------:|:----:|:----:|:------------------:|:----:|
+[Visualizing the Loss Landscape of Neural Nets](https://arxiv.org/abs/1712.09913)   | NIPS   |     2018      |   [here](https://github.com/tomgoldstein/loss-landscape) |  Yutian Liu   | [here](https://1drv.ms/p/s!AlS0P3vuVTvig0a0u2LV784R0dy3?e=mH3z3n)  
+[How Do Vision Transformers Work?](https://arxiv.org/abs/2202.06709)   | ICLR   |     2022      |   [here](https://github.com/xxxnell/how-do-vits-work) |  Yutian Liu   | [here](https://1drv.ms/p/s!AlS0P3vuVTvig0a0u2LV784R0dy3?e=mH3z3n)  
+[When Vision Transformers Outperform ResNets without Pre-training or Strong Data Augmentations](https://arxiv.org/abs/2106.01548)   | ICLR   |     2022      |   [here](https://github.com/google-research/vision_transformer) |  Yutian Liu   | [here](https://1drv.ms/p/s!AlS0P3vuVTvig0a0u2LV784R0dy3?e=mH3z3n)  
+[An Empirical Analysis of Deep Network Loss Surfaces](https://arxiv.org/abs/1612.04010)   | Machine Learning   |     2017      |   x |  Yutian Liu   | [here](https://1drv.ms/p/s!AlS0P3vuVTvig0a0u2LV784R0dy3?e=mH3z3n)  
 
 ## Nerf Related
 Papers | Conference | Year | Code | Speaker |Slides
